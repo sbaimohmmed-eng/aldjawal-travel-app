@@ -30,4 +30,41 @@ class AppStrings {
     'no_plans': 'لا توجد خطط محفوظة حالياً',
   };
 
-  static const Map<String, String> _englishStrings = {\n    'nav_map': 'Map & Index',\n    'nav_budget': 'Budget Planner',\n    'nav_plans': 'My Plans & Budgets',\n    'app_title': 'Smart Travel & Passport Index',\n    'passport_select': 'Active Passport',\n    'lang_title': 'Language Settings',\n    'trip_to': '✈️ Trip Plan to:',\n    'visa_status': 'Current Visa Status:',\n    'stay_days': 'Allowed Duration of Stay:',\n    'smart_tip': '💡 Smart Tip: Use your other passport for visa-free access!',\n    'budget_calc': '📊 Budget Breakdown:',\n    'total_cost': '💰 Total Estimated Budget:',\n    'save_plan': 'Save Trip Plan',\n    'apply_now': 'Apply Now on Official Government Site',\n    'success_save': '✅ Trip plan and budget saved successfully!',\n    'no_plans': 'No saved plans yet',\n  };\n\n  static const Map<String, String> _frenchStrings = {\n    'nav_map': 'Carte & Index',\n    'nav_budget': 'Planificateur de Budget',\n    'nav_plans': 'Mes Plans & Budgets',\n    'app_title': 'Index des Passeports Intelligent',\n    'passport_select': 'Passeport Actif',\n    'lang_title': 'Paramètres de Langue',\n    'trip_to': '✈️ Plan de voyage vers:',\n    'visa_status': 'Statut actuel du visa:',\n    'stay_days': 'Durée de séjour autorisée:',\n    'smart_tip': '💡 Conseil: Voyager avec votre autre passeport vous exempte de visa!',\n    'budget_calc': '📊 Breakdown du Budget:',\n    'total_cost': '💰 Budget Total Estimé:',\n    'save_plan': 'Enregistrer le plan de voyage',\n    'apply_now': 'Postuler sur le site gouvernemental officiel',\n    'success_save': '✅ Plan de voyage enregistré avec succès!',\n    'no_plans': 'Aucun plan sauvegardé pour l\\'instant',\n  };\n}\n
+  static const Map<String, String> _englishStrings = {
+    'nav_map': 'Map & Index',
+    'nav_budget': 'Budget Planner',
+    'nav_plans': 'My Plans & Budgets',
+    'app_title': 'Smart Travel & Passport Index',
+    'passport_select': 'Active Passport',
+    'lang_title': 'Language Settings',
+    'trip_to': '✈️ Trip Plan to:',
+    'visa_status': 'Current Visa Status:',
+    'stay_days': 'Allowed Duration of Stay:',
+    'smart_tip': '💡 Smart Tip: Use your other passport for visa-free access!',
+    'budget_calc': '📊 Budget Breakdown:',
+    'total_cost': '💰 Total Estimated Budget:',
+    'save_plan': 'Save Trip Plan',
+    'apply_now': 'Apply Now on Official Government Site',
+    'success_save': '✅ Trip plan and budget saved successfully!',
+    'no_plans': 'No saved plans yet',
+  };
+
+  static const Map<String, String> _frenchStrings = {
+    'nav_map': 'Carte & Index',
+    'nav_budget': 'Planificateur de Budget',
+    'nav_plans': 'Mes Plans & Budgets',
+    'app_title': 'Index des Passeports Intelligent',
+    'passport_select': 'Passeport Actif',
+    'lang_title': 'Paramètres de Langue',
+    'trip_to': '✈️ Plan de voyage vers:',
+    'visa_status': 'Statut actuel du visa:',
+    'stay_days': 'Durée de séjour autorisée:',
+    'smart_tip': '💡 Conseil: Voyager avec votre autre passeport vous exempte de visa!',
+    'budget_calc': '📊 Breakdown du Budget:',
+    'total_cost': '💰 Budget Total Estimé:',
+    'save_plan': 'Enregistrer le plan de voyage',
+    'apply_now': 'Postuler sur le site gouvernemental officiel',
+    'success_save': '✅ Plan de voyage enregistré avec succès!',
+    'no_plans': 'Aucun plan sauvegardé pour l\'instant',
+  };
+}
